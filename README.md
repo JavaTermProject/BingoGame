@@ -1,1 +1,3 @@
-# NewBingoGame
+# Bingo Game
+
+자바프로그래밍 수업에서 팀 프로젝트로 개발한 빙고 게임
